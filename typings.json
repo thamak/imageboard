@@ -1,0 +1,12 @@
+{
+  "ambientDependencies": {
+    "body-parser": "registry:dt/body-parser#0.0.0+20160317120654",
+    "errorhandler": "registry:dt/errorhandler#0.0.0+20160316155526",
+    "express": "registry:dt/express#4.0.0+20160317120654",
+    "method-override": "registry:dt/method-override#0.0.0+20160317120654",
+    "mime": "registry:dt/mime#0.0.0+20160316155526",
+    "mongodb": "registry:dt/mongodb#2.1.0+20160425144419",
+    "node": "registry:dt/node#4.0.0+20160509154515",
+    "serve-static": "registry:dt/serve-static#0.0.0+20160501131543"
+  }
+}
